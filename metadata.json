@@ -1,0 +1,6 @@
+{
+  "name": "Card Didático: Dedução de Antibióticos no VITEK® 2",
+  "description": "Guia educativo e interativo para assessores científicos sobre dedução de antibióticos e expertização no AES / VITEK® 2 (bioMérieux).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
